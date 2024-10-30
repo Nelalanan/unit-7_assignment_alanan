@@ -1,0 +1,30 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Obsolete files
+*.lock
+*.log
+
+# Generated files
+build/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+macos/Flutter/Flutter.framework/
+windows/Flutter/Flutter.podspec
+
+# iOS/macOS
+**/*.xcworkspace
+**/Pods
+**/Podfile.lock
+**/DerivedData/
+**/.generated/
+
+# Android
+**/local.properties
+**/*.iml
+.idea/
+.gradle/
