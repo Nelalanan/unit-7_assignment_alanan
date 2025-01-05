@@ -1,5 +1,5 @@
-import 'package:A/screens/about_me.dart';
-import 'package:A/screens/home_screen.dart';
+import 'screens/about_me.dart';
+import 'screens/home_screen.dart';
 import 'package:flutter/material.dart';
 // I tried to change it into unit-7_assignment_alanan for the folder name but it wont accept it sir unless its A i dont why
 void main() {

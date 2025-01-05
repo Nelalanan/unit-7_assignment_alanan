@@ -1,5 +1,5 @@
-import 'package:A/components/tab_widget_1.dart';
-import 'package:A/components/tab_widget_2.dart';
+import 'package:unit7_assignment_alanan/components/tab_widget_1.dart';
+import 'package:unit7_assignment_alanan/components/tab_widget_2.dart';
 import 'package:flutter/material.dart';
 
 class AboutMe extends StatefulWidget {
